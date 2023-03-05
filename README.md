@@ -1,4 +1,9 @@
 [![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml)
+### Resources for Google Cloud Certifications
+
+* [Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
+* [Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
+
 ## Template for Python projects 
 
 1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
