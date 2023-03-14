@@ -4,6 +4,11 @@
 * [Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
 * [Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
 
+## Cloud Functions
+
+* [Functions in Go](https://github.com/GoogleCloudPlatform/functions-framework-go)
+
+
 ## Template for Python projects 
 
 1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
