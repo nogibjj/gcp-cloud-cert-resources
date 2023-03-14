@@ -3,6 +3,10 @@
 
 * [Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect)
 * [Professional Machine Learning Engineer](https://cloud.google.com/certification/machine-learning-engineer)
+* [Distroless Images](https://github.com/GoogleContainerTools/distroless)
+
+![1 0-cloud-functions](https://user-images.githubusercontent.com/58792/222994132-6d86dd73-bcef-4907-98b2-f30aa40c0f1b.png)
+
 
 ## Cloud Functions
 
@@ -32,4 +36,5 @@ Things included are:
 * A base set of libraries for devops and web
 
 * `githubactions` 
+
 
